@@ -1,4 +1,6 @@
-# GoF design patterns with JavaScript
+# Gang of Four (GoF) design patterns with JavaScript
+
+Welcome to the Gang of Four (GoF) Design Patterns repository! This repository is a collection of classic software design patterns introduced by the "Gang of Four" in their influential book "Design Patterns: Elements of Reusable Object-Oriented Software." These patterns provide solutions to common design problems and help you create more maintainable and extensible software.
 
 ## Patterns list
 
